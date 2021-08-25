@@ -3,7 +3,7 @@ This repository is collection of python scripts and notes while I was learning t
 
 ## HTML Webpage for Plotly-Cufflinks.ipynb Tutorial
 
-file:///C:/Users/Kripanand/Downloads/Plotly%20&%20Cufflinks%20Tutorial.html
+file:///C:/Users/Kripanand/Python%20Libraries/Plotly-Cufflinks%20Tutorial.html
 
 **NOTE :** <br />
 *copy and paste this link in your browser to see the code and interactive plotly charts together.*
